@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b648fb59.css",
-    "main.js": "/static/js/main.439544ea.js",
+    "main.css": "/static/css/main.1d729ab3.css",
+    "main.js": "/static/js/main.0ba7d1db.js",
     "static/js/488.9561f9b8.chunk.js": "/static/js/488.9561f9b8.chunk.js",
     "static/media/img-data-card.jpg": "/static/media/img-data-card.42a6bbd7560e3d6dd2e0.jpg",
     "static/media/img-pub-card.jpg": "/static/media/img-pub-card.c1486285bfb99ed72d5b.jpg",
@@ -10,12 +10,12 @@
     "static/media/cv.pdf": "/static/media/cv.e852958c89d3cd72ecf1.pdf",
     "static/media/yk_logo_60px.svg": "/static/media/yk_logo_60px.cd9663cc48313177768202e2b7f5852f.svg",
     "index.html": "/index.html",
-    "main.b648fb59.css.map": "/static/css/main.b648fb59.css.map",
-    "main.439544ea.js.map": "/static/js/main.439544ea.js.map",
+    "main.1d729ab3.css.map": "/static/css/main.1d729ab3.css.map",
+    "main.0ba7d1db.js.map": "/static/js/main.0ba7d1db.js.map",
     "488.9561f9b8.chunk.js.map": "/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b648fb59.css",
-    "static/js/main.439544ea.js"
+    "static/css/main.1d729ab3.css",
+    "static/js/main.0ba7d1db.js"
   ]
 }
